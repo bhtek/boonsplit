@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="new_split_btn_lbl">New Split</string>
+    <string name="view_splits_btn_lbl">View Past Splits</string>
+</resources>

@@ -4,4 +4,6 @@
 
     <string name="new_split_btn_lbl">New Split</string>
     <string name="view_splits_btn_lbl">View Past Splits</string>
+    <string name="split_label_lbl">Name for Split</string>
+    <string name="start_split_btn_lbl">Start Split</string>
 </resources>
